@@ -1,3 +1,12 @@
 nest_asyncio
 python-telegram-bot
 python-dotenv
+asyncpg
+psycopg2-binary
+sqlalchemy
+alembic
+pillow
+python-dateutil
+beautifulsoup4
+requests
+aiofiles
